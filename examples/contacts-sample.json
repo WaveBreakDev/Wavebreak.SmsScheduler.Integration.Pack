@@ -1,0 +1,13 @@
+[
+    {
+      "name": "John Doe",
+      "phone": "15551234567",
+      "message": "Hello this is your reminder."
+    },
+    {
+      "name": "Mary Smith",
+      "phone": "18005557890",
+      "message": "Your appointment is tomorrow."
+    }
+  ]
+  

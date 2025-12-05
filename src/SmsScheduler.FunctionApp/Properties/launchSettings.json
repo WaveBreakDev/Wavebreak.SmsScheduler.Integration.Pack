@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SmsScheduler.FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7063",
+      "launchBrowser": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "SmsSettings": {
+      "ApiBaseUrl": "https://app.usapers.com",
+      "MessagesEndpoint": "/api/http/sms/send",
+      "BalanceEndpoint": "/api/http/balance",
+      "ApiToken": "22232323232323ADSDFSDFSWDFSDSFDD",
+      "SenderId": "15553010085",
+      "Type": "plain",
+      "MessageTemplate": "We have been trying to reach you regarding your no out of pocket cost medical alert pendant. Everything is ready to ship. We need to finish one last thing before we ship out your device. Please call us at 8447447458.",
+      "MinimumBalance": 100
+    },
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+    }
+  }
